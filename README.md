@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Halo, Saya [Riweh aka Ezra]!
 
-<!--
-**r1weh/r1weh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/800x200?text=Selamat+Datang+di+Profil+Saya!)
 
-Here are some ideas to get you started:
+Saya seorang **Dev** yang bersemangat dengan:
+- 🔧 **Pengembangan Script FiveM (QBCore dan ESX)**
+- ⚛️ **Frontend dengan React dan TypeScript**
+- 🔐 **Backend dan API Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Skill Saya**:
+- **Framework**: QBCore, ESX, React.js
+- **Bahasa Pemrograman**: Lua, JavaScript, TypeScript
+- **Tool**: ox_inventory, qb-target, ox_doorlock, Whatever
+
+---
+
+### 🔗 **Temukan Saya di Internet**:
+- [🐦 Instagram](https://www.instagram.com/n.ezrasam)
+- [📂 Youtube](https://www.youtube.com/@UcupinnBRW)
+
+---
+
+### 🎯 **Statistik GitHub Saya**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=radical)
+
+---
+
+### 📌 **Proyek Terbaru**
+- 🚓 Script untuk [rw-phone](https://github.com/username/reponama)
+
+---
+I Need Coffe Give me
+✨ https://saweria.co/r1weh ✨
+
+⭐ Jangan lupa beri **Star** jika kamu suka proyek saya! ✨
