@@ -23,7 +23,7 @@ Saya seorang **Dev** yang bersemangat dengan:
 ---
 
 ### 🎯 **Statistik GitHub Saya**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r1weh&show_icons=true&theme=radical)
 
 ---
 
